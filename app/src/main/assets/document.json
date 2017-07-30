@@ -1,0 +1,43 @@
+{
+  "emergencies": [
+    {
+      "name": "Heart attack"
+    },
+    {
+      "name": "Stroke"
+    },
+    {
+      "name": "Allergic reaction"
+    },
+    {
+      "name": "Broken bone"
+    },
+    {
+      "name": "Food poisoning"
+    },
+    {
+      "name": "Unconsciousness"
+    },
+    {
+      "name": "Concussion"
+    },
+    {
+      "name": "Heavy bleeding"
+    },
+    {
+      "name": "Seizure"
+    },
+    {
+      "name": "High fever"
+    },
+    {
+      "name": "Asphyxiation"
+    },
+    {
+      "name": "Drug overdose"
+    },
+    {
+      "name": "Allergic reaction"
+    }
+  ]
+}

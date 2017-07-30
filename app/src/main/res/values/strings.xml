@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EmergenSee</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map">Map</string>
+    <string name="back">Back</string>
+    <string name="first_aid">First Aid</string>
+    <string name="go">go</string>
+    <string name="question">What\'s your emergency?</string>
+    <string name="searching">Searching for first aid…</string>
+    <string name="add_your_own">Add your own emergency:</string>
+    <string name="emergencies">Emergencies</string>
+</resources>
